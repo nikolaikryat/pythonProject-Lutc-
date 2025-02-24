@@ -5,3 +5,4 @@ print(M, '\n')
 
 diag = [M[i][i] for i in [0, 1, 2]]
 print(diag)
+
